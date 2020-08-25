@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala Guide</title>
+    <link>https://scala.guide/</link>
+    <description>Recent content on Scala Guide</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>tamer@abdulradi.com (Tamer Abdulradi)</managingEditor>
+    <webMaster>tamer@abdulradi.com (Tamer Abdulradi)</webMaster>
+    <lastBuildDate>Tue, 25 Aug 2020 15:25:02 +0100</lastBuildDate>
+    
+	<atom:link href="https://scala.guide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your calculator, on steroids</title>
+      <link>https://scala.guide/docs/001-calculator/</link>
+      <pubDate>Tue, 25 Aug 2020 15:25:02 +0100</pubDate>
+      <author>tamer@abdulradi.com (Tamer Abdulradi)</author>
+      <guid>https://scala.guide/docs/001-calculator/</guid>
+      <description>You can use Scala as your Calculator
+1 + 1 </description>
+    </item>
+    
+  </channel>
+</rss>
